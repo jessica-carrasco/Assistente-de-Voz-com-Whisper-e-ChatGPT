@@ -13,3 +13,4 @@ https://colab.research.google.com/drive/1fS0v2IEttUzYh8DuHqNY3L6VhHFgersn#scroll
 - JavaScript
 - API
 - ChatGPT
+- Whisper
